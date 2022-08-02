@@ -2,7 +2,7 @@
   "name": "salary-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lacunahag.github.io/salary-calculator/",
+  "homepage": "",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
